@@ -31,4 +31,5 @@ _testmain.go
 *.log
 /ops-meta*
 /meta*
+.DS_Store
 
